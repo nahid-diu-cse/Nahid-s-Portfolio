@@ -475,7 +475,7 @@ const experience = {
           company_url: "https://www.atctechltd.com/",
           logo_path: "atc_tech.png",
           duration: "Jan 2023 - Aug 2024",
-          location: "Rajshahi, Bangladesh",
+          location: "High Tech Park, Rajshahi, Bangladesh",
           description:
             "At ATC Tech Ltd., I developed and maintained Flutter applications, delivering seamless and responsive user experiences. I wrote robust backend code using Node.js and Express.js, ensuring efficient data management and API integrations. Additionally, I managed hosting environments on Namecheap and AWS, leveraging automation tools to streamline server maintenance and enhance system reliability. My role involved collaborating with cross-functional teams to implement scalable solutions that supported the company’s technical and business objectives.",
           color: "#0879bf",

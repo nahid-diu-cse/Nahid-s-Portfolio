@@ -97,16 +97,15 @@ const skills = {
           },
         },
         {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
           style: {
-            backgroundColor: "white",
-            color: "#D00000",
+            backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "GetX",
+          fontAwesomeClassname: "simple-icons:getx",
           style: {
             backgroundColor: "transparent",
           },
@@ -237,13 +236,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
           style: {
@@ -258,8 +250,8 @@ const skills = {
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Canva",
+          fontAwesomeClassname: "simple-icons:canva",
           style: {
             color: "#000000",
           },
@@ -328,7 +320,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ Notably, I competed in Code Samurai 2022, a challenging Hackathon, and the International Collegiate Programming Contest (ICPC), showcasing my proficiency in algorithmic thinking and teamwork.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://daffodilvarsity.edu.bd/",
     },
   ],
 };
@@ -508,7 +500,7 @@ const experience = {
           company: "DIU GCPC",
           company_url: "https://gcpc.daffodilvarsity.edu.bd/",
           logo_path: "ngpc.png",
-          duration: "",
+          duration: "Jan 2023",
           location: "DIU, Ashulia, Savar, Dhaka, Bangladesh",
           description:
             "I was a volunteer of National Girls Programming Contest. As a volunteer for the NGPC Contest, I assisted in organizing and managing event logistics, ensuring smooth operations throughout the competition. I supported participant registrations, facilitated workshops, and provided technical assistance to contestants. Collaborating with the organizing team, I contributed to creating an engaging and efficient environment, enhancing my skills in teamwork, communication, and event coordination.",
